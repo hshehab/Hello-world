@@ -7,9 +7,4 @@
 
 \f0\fs24 \cf0 hello\
 \
-teset \
-\
-sdfsadf\
-sdfasdf\
-sdfsdf\
-sdfsdfsdfsdfsdfsdfsdfsfsfsfd}
+}
